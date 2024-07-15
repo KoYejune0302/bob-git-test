@@ -1,1 +1,1 @@
-# bob_git_test
+# BoB git tutorial
